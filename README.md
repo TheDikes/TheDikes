@@ -4,7 +4,7 @@
 ### I am a Junior Web Developer and a Software Engineering student at ALX. `I learn by researching....`
 
 - #### 🔭 I’m a junior Web developer..
-- #### 🔭 I’m currently working on my coding skillooking forward.
+- #### 🔭 I’m currently working on my coding skills.
 - #### 🌱 I’m currently a software engineering student at ALX Africa.
 - #### 🤔 I’m looking for help with mastering my skills as a software engineer.
 - #### 👯 I’m looking forward to collaborate on Software Engineering projects.
