@@ -13,10 +13,10 @@
 * [Twitter](https://twitter.com/DikeCynthia14)
 * [Email](mailto:dikecynthia22@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maa-mmy&layout=compact)](https://github.com/Maa-mmy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDikes&layout=compact)](https://github.com/TheDikes/github-readme-stats)
 
 ## QUESTION AND ANSWER WEBSITE 
 * [GitHub](https://github.com/)
 * [Code pen](https://codepen.io/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maa-mmy&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDikes&show_icons=true&theme=radical)
