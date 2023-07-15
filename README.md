@@ -1,9 +1,9 @@
 # [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+Cynthia;I+Am+Passionate+About+Coding;I+Learn+By+Researching)](https://git.io/typing-svg)
 # Hi I'm Cynthia.. 👋
 
-### I am a Junior Web Developer and a Software Engineering student at ALX. `I learn by researching and doing projects....`
+### I am a Web Developer and a Software Engineering student at ALX. `I learn by researching and doing projects....`
 
-- #### 🔭 I’m currently working on my coding skills.
+- #### 🔭 I’m always working on my coding skills.
 - #### 🌱 I’m currently a software engineering student at ALX Africa.
 - #### 🤔 I’m looking for help with mastering my skills as a software engineer.
 - #### 👯 I’m looking forward to collaborate on Software Engineering projects.
