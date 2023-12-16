@@ -3,7 +3,7 @@
 
 ### I am a Software Engineer with specialization in Backend. `I learn by researching and doing projects....`
 
-- #### 🔭 I’m always working on my coding skills.
+- #### 🔧 I’m always working on my coding skills.
 - #### 👨‍🎓 I’m a Software Engineer Alumni at ALX Africa.
 - #### 🔒 I’m dedicated to building secure APIs.
 - #### 👯 I’m open to collaborations on Software Engineering projects.
